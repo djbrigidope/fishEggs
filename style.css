@@ -1,53 +1,60 @@
+.container{
+	min-width: 375pts;
+	max-width: 1080px;
+
+}
+
 .modal{
-	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	height: 45px;
+	width: 100%;
+	background-color: red;
+
 }
 
 
 .header{
 	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	background-color: blue;
+
 }
 
 
 .review
 {
 	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	background-color: grey;
+
 }
 
 
 .download {
 	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	background-color: red;
+
 }
 
 
 .picturebg{
 	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	background-color: blue;
+
 }
 
 
 .caviar {
 	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	background-color: grey;
+
 }
 
 .cityCard {
 	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	background-color: red;
+
 }
 
 .footer {
 	height: 100px;
-	outline-color: black;
-	outline-width: thick;
+	background-color: grey;
+
 }
