@@ -13,7 +13,7 @@
 
 
 .header{
-	height: 100px;
+	height: auto;
 	background-color: blue;
 
 }
@@ -22,8 +22,11 @@
 .review
 {
 	height: 100px;
-	background-color: grey;
-
+	background-image: url("https://img.trycaviar.com/x7pgux2UGo3J3wY_QrD3lITEmnk=/1680x1120/https://s3.amazonaws.com/trycaviar.com/offers/151/9049.jpg");
+	background-size: 375px auto;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
 }
 
 
@@ -37,6 +40,10 @@
 	height: 100px;
 	background-color: blue;
 
+}
+
+.imagePad{
+	padding: 0px 3px 0px 3px;
 }
 
 
